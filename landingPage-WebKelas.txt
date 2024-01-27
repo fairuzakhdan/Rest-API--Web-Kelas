@@ -1,0 +1,17 @@
+1.mahasiswa 
+	-id
+	-nama
+	-nim
+	-minat_konsentrasi
+	-email
+	-password
+	-noHp
+	-tgl_lahir
+	-gender
+	-alamat
+	-image_profil
+	-sosmed
+2.kelas
+3.portopolio
+4.galery 
+5.admin
